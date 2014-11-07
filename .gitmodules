@@ -4,3 +4,9 @@
 [submodule "admin"]
 	path = admin
 	url = ssh://johna1203@git.codebreak.com/geekylab/GeekyMenuAdmin.git
+[submodule "GeekyOSVagrant"]
+	path = GeekyOSVagrant
+	url = git@github.com:geekylab/coreos-vagrant.git
+[submodule "GeekyOS"]
+	path = GeekyOS
+	url = ssh://johna1203@git.codebreak.com/geekylab/GeekyOSEasyControll.git
