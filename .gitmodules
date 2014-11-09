@@ -7,6 +7,9 @@
 [submodule "GeekyOSVagrant"]
 	path = GeekyOSVagrant
 	url = git@github.com:geekylab/coreos-vagrant.git
-[submodule "GeekyOS"]
-	path = GeekyOS
-	url = ssh://johna1203@git.codebreak.com/geekylab/GeekyOSEasyControll.git
+[submodule "GeekyOSEasyControl"]
+	path = GeekyOSEasyControl
+	url = ssh://johna1203@git.codebreak.com/geekylab/GeekyOSEasyControl.git
+[submodule "GeekyOSServerApp"]
+	path = GeekyOSServerApp
+	url = ssh://johna1203@git.codebreak.com/geekylab/GeekyOSServerApp.git
