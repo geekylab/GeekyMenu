@@ -13,3 +13,6 @@
 [submodule "GeekyOSServerApp"]
 	path = GeekyOSServerApp
 	url = ssh://johna1203@git.codebreak.com/geekylab/GeekyOSServerApp.git
+[submodule "GeekyMenuCloudApp"]
+	path = GeekyMenuCloudApp
+	url = ssh://johna1203@git.codebreak.com/geekylab/GeekyMenuCloudApp.git
