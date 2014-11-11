@@ -9,10 +9,10 @@
 	url = git@github.com:geekylab/coreos-vagrant.git
 [submodule "GeekyOSEasyControl"]
 	path = GeekyOSEasyControl
-	url = ssh://johna1203@git.codebreak.com/geekylab/GeekyOSEasyControl.git
+	url = git@github.com:geekylab/GeekyOSEasyControl.git
 [submodule "GeekyOSServerApp"]
 	path = GeekyOSServerApp
-	url = ssh://johna1203@git.codebreak.com/geekylab/GeekyOSServerApp.git
+	url = git@github.com:geekylab/GeekyOSServerApp.git
 [submodule "GeekyMenuCloudApp"]
 	path = GeekyMenuCloudApp
-	url = ssh://johna1203@git.codebreak.com/geekylab/GeekyMenuCloudApp.git
+	url = git@github.com:geekylab/GeekyMenuCloudApp.git

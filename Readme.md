@@ -1,7 +1,11 @@
+P2P Digital menu (is under development)
+============================
 
+images
+![Images](http://)
 
-```
-git clone ssh://youruser@git.codebreak.com/geekylab/GeekyMenu.git
+##clone
+git clone git@github.com:geekylab/GeekyMenu.git
 
 
 #update submodule
