@@ -8,11 +8,12 @@ P2P Digital menu (is under development)
 ![Images](https://raw.githubusercontent.com/geekylab/GeekyMenu/master/head.png)
 
 ##clone
-git clone git@github.com:geekylab/GeekyMenu.git
+```
+$ git clone git@github.com:geekylab/GeekyMenu.git
 
 
 #update submodule
-git submodule init
-git submodule update
+$ git submodule init
+$ git submodule update
 
 ```
