@@ -1,6 +1,6 @@
-[submodule "mobile"]
+[submodule "GeekyMobileApp"]
 	path = mobile
-	url = ssh://johna1203@git.codebreak.com/geekylab/GeekyMenuMobile.git
+	url = git@github.com:geekylab/GeekyMobileApp.git
 [submodule "admin"]
 	path = admin
 	url = ssh://johna1203@git.codebreak.com/geekylab/GeekyMenuAdmin.git
