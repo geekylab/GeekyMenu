@@ -1,0 +1,32 @@
+{
+  "status": true,
+  "data": {
+    "1": {
+      "_id": "1",
+      "category": "1",
+      "name": "Feijoada do Johna",
+      "desc": "Feijoada do Johna",
+      "price": "25.00",
+      "image": "http://localhost:8901/images/feijoada_johna.jpg",
+      "serve": "4"
+    },
+    "2": {
+      "_id": "2",
+      "category": "1",
+      "name": "Carbonara do Johna",
+      "desc": "Carbonara do Johna",
+      "price": "30.00",
+      "image": "http://localhost:8901/images/carbonara_johna.jpg",
+      "serve": "2"
+    },
+    "3": {
+      "_id": "3",
+      "category": "2",
+      "name": "Cerveja Kirin Ichiban",
+      "desc": "Cerveja Kirin Ichiban - Japonesa",
+      "price": "10.00",
+      "image": "http://localhost:8901/images/cerveja_kirin.jpg",
+      "serve": "2"
+    }
+  }
+}
