@@ -1,22 +1,28 @@
 [submodule "GeekyMobileApp"]
 	path = mobile
 	url = git@github.com:geekylab/GeekyMobileApp.git
+	ignore = dirty
 [submodule "admin"]
 	path = admin
 	url = git@github.com:geekylab/admin.git
+	ignore = dirty
 [submodule "GeekyOSVagrant"]
 	path = GeekyOSVagrant
 	url = git@github.com:geekylab/coreos-vagrant.git
+	ignore = dirty
 [submodule "GeekyOSEasyApp"]
 	path = GeekyOSEasyApp
 	url = git@github.com:geekylab/GeekyOSEasyApp.git
+	ignore = dirty
 [submodule "GeekyOSEasyControl"]
 	path = GeekyOSEasyControl
-	url = git@github.com:geekylab/GeekyOSEasyControl.git
+	url = git@github.com:geekylab/GeekyOSEasyControl.git	
+	ignore = dirty
 [submodule "GeekyOSServerApp"]
 	path = GeekyOSServerApp
 	url = git@github.com:geekylab/GeekyOSServerApp.git
+	ignore = dirty
 [submodule "GeekyMenuCloudApp"]
 	path = GeekyMenuCloudApp
 	url = git@github.com:geekylab/GeekyMenuCloudApp.git
-	branch = master
+	ignore = dirty
