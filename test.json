@@ -1,0 +1,13 @@
+[
+    { image: { _id: '546f9e6a407ac6f200f651b1',
+       data: [Object],
+       user: '546f4204c99aab1200668664',
+       filename: 'Minha cabeca.png',
+       contentType: 'image/png',
+       __v: 0
+    },
+    filename: { us: 'Minha cabeca.pngaaaaaa' },
+    _id: '546f9e6e407ac6f200f651b3',
+    image_type: 1,
+    sort_order: 0 }
+]
