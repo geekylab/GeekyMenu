@@ -19,3 +19,4 @@
 [submodule "GeekyMenuCloudApp"]
 	path = GeekyMenuCloudApp
 	url = git@github.com:geekylab/GeekyMenuCloudApp.git
+	branch = master
