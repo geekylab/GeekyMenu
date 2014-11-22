@@ -14,10 +14,6 @@
 	path = GeekyOSEasyApp
 	url = git@github.com:geekylab/GeekyOSEasyApp.git
 	ignore = dirty
-[submodule "GeekyOSEasyControl"]
-	path = GeekyOSEasyControl
-	url = git@github.com:geekylab/GeekyOSEasyControl.git
-	ignore = dirty
 [submodule "GeekyOSServerApp"]
 	path = GeekyOSServerApp
 	url = git@github.com:geekylab/GeekyOSServerApp.git
