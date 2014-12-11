@@ -2,6 +2,9 @@ P2P Digital menu (is under development)
 ============================
 
 ###images
+![Images](https://raw.githubusercontent.com/geekylab/GeekyMenu/master/easy_control.png)
+
+
 ![Images](https://raw.githubusercontent.com/geekylab/GeekyMenu/master/menu.png)
 
 ###Inside my head
