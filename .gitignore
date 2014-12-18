@@ -32,8 +32,8 @@ node_modules
 .lock-wscript
 
 db
-GeekyOSServerApp
-GeekyOSEasyApp
-GeekyOSVagrant
-GeekyMenuCloudApp
+#GeekyOSServerApp
+#GeekyOSEasyApp
+#GeekyOSVagrant
+#GeekyMenuCloudApp
 admin
