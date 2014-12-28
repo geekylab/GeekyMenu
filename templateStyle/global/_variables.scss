@@ -152,15 +152,15 @@ $portlet-border-radius: 4px;
 //
 // Note: These variables are not generated into the Customizer.
 
-$zindex-navbar: 9995 !default;
-$zindex-navbar-above: 9999 !default;
-$zindex-dropdown: 1000 !default;
-$zindex-popover: 1010 !default;
-$zindex-tooltip: 1030 !default;
+$zindex-navbar: 995 !default;
+$zindex-navbar-above: 999 !default;
+$zindex-dropdown: 100 !default;
+$zindex-popover: 110 !default;
+$zindex-tooltip: 130 !default;
 $zindex-navbar-fixed: 1030 !default;
-$zindex-modal-background: 10049 !default;
-$zindex-modal: 10050 !default;
-$zindex-top: 10100 !default;
+$zindex-modal-background: 1049 !default;
+$zindex-modal: 150 !default;
+$zindex-top: 1100 !default;
 
 //## Media queries breakpoints
 //
